@@ -1,5 +1,7 @@
-### Hi there :v:
+# Hey, I'm Tobias
 
-[![](https://img.shields.io/badge/Gmail-TPB.DevAcc%40gmail.com-red?logo=Gmail)](mailto:TPB.DevAcc@gmail.com)
-[![Linkedin: tobias-becher](https://img.shields.io/badge/-tobiasbecher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobias-becher/)](https://www.linkedin.com/in/tobias-becher/)
-[![GitHub TB-DevAcc](https://img.shields.io/github/followers/tb-devacc?label=follow&style=social)](https://github.com/TB-DevAcc)
+ML Engineer based in Berlin. I spend most of my time writing Python, building ML systems, and poking at things from a cybersecurity angle.
+
+`Python` · ML · cybersecurity · whatever gets the job done
+
+[tobiasbecher.com](https://tobiasbecher.com)
